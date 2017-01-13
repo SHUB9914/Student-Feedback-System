@@ -1,0 +1,43 @@
+table
+  {
+  width:100%;
+  
+  }
+  table tr:nth-child(even)
+  {
+  
+  
+  
+   background-color:#eee;
+  
+  }
+  table tr:nth-child(odd)
+  {
+  
+ 
+  
+   background-color:#fff;
+  
+  }
+  
+  table ,th,td 
+  {
+  border-collapse:collapse;
+  border:1px solid balck;
+  padding:10px;
+  
+  }
+  table th
+  {
+  background-color:black;
+  color:white;
+  
+  
+  }
+  #img
+  {
+  margin-right:10px;
+  
+  }
+ 
+ 
